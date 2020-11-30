@@ -6,3 +6,5 @@ For the folder code_Matlab, each function file ending with .m in it helps you ru
 For the result_output.ipynb file, we bring the calculated results into python to calculate their corresponding f1-score, and display the results.
 
 All data sets are placed in the data folder
+
+Reference: https://github.com/saeidsoheily/weighted-dynamic-time-warping
