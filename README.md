@@ -1,5 +1,5 @@
 # Weighted-dynamic-time-warping-for-traffic-flow-cluster
-This is running code for paper: Weighted dynamic time warping for traffic flow clustering - Neurocomputing 2021
+This is running code for paper: Weighted dynamic time warping for traffic flow clustering - 2021 Neurocomputing revision
 
 For the folder code_Matlab, each function file ending with .m in it helps you run the results in the paper on the matlab command line. Each result can be loaded in sequence after the preprocessing function.
 
