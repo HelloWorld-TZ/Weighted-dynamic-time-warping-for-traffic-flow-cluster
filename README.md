@@ -9,5 +9,5 @@ For the result_output.ipynb file, we bring the calculated results into python to
 
 All data sets are placed in the data folder.
 
-The origional data is from https://data.melbourne.vic.gov.au/ and code reference: https://github.com/saeidsoheily/weighted-dynamic-time-warping
+The origional data is from https://data.melbourne.vic.gov.au/ and code reference is https://github.com/saeidsoheily/weighted-dynamic-time-warping
 
